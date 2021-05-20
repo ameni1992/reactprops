@@ -1,0 +1,20 @@
+body{
+  background-color:wheat;
+}
+.App {
+  text-align: center;
+}
+
+.fleur{
+  width: 200px;
+  border-radius: 50px; 
+  
+}
+.part{
+  border-bottom:groove;
+  border-top: groove;
+}
+.click{
+  margin: 30px;
+  
+}
